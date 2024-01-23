@@ -1,5 +1,5 @@
 /**
- * @author Crazy-8 groups
+ * @author Crazy-8 groups a
  * @date 2023-02
 */
 enum Rank {
